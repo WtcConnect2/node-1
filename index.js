@@ -1,5 +1,3 @@
-// Sample data processor — statistical sampling utility
-// Part of the data-analysis toolchain. Generates randomized sample sets.
 
 const crypto = require("crypto");
 
